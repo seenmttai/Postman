@@ -1,4 +1,4 @@
-# ClubEmailSender
+# Postman
 
 A Python tool for sending personalized emails to club members or any group from CSV data.
 
