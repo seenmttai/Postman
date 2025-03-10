@@ -1,6 +1,6 @@
 # Postman
 
-A Python tool for sending personalized emails to club members or any group from CSV data.
+A Python tool for sending personalized mass emails, with a lot of flexibility.
 
 ## Features
 
